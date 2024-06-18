@@ -21,3 +21,5 @@ module.exports = {
   icon,
   UIStrings,
 };
+
+/**add some comment**//
